@@ -1,4 +1,4 @@
-[![MasterHead](https://stock.adobe.com/search?k=%22coding+background%22)(https:///AftabAhmadHalimi)
+[![MasterHead]([https://stock.adobe.com/search?k=%22coding+background%22](https://dri.es/a-history-of-javascript-across-the-stack))(https:///AftabAhmadHalimi)
 <h1 align="center">Hi 👋, I'm Aftab Ahmad Halimi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
