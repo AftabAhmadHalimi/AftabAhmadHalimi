@@ -1,4 +1,4 @@
-[![MasterHead](https://dri.es/files/cache/blog/javascript-powered-multichannel-640w.gif)](https://github.com/AftabAhmadHalimi)
+[![MasterHead](https://raw.githubusercontent.com/AftabAhmadHalimi/AftabAhmadHalimi/refs/heads/main/ReadmeHead.gif)](https://github.com/AftabAhmadHalimi)
 <h1 align="center">Hi 👋, I'm Aftab Ahmad Halimi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
